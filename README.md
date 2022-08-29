@@ -2,7 +2,7 @@
 
 ## INSTALLATION
 
-To alter NCURSES default characters to those which would better support lines.
+To alter NCURSES default characters to those which would better support lines. Not necessary for windows "terminal" console using ssh.
 ```bash
 export NCURSES_NO_UTF8_ACS=1
 ```
