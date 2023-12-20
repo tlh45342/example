@@ -1,5 +1,8 @@
 # example
 
+This appears to be an example of NCURSES.  Make sure to follow the installation to install Dialog.  This appears to test
+using dialog via a BASH shell.  And Yes.  I completely forgot that I put this in here.  Nice.
+
 ## INSTALLATION
 
 To alter NCURSES default characters to those which would better support lines. Not necessary for windows "terminal" console using ssh.
